@@ -1,0 +1,3 @@
+- 👩🏻‍💻 Hi, I’m Catherine.
+- 🍃 I love creating new things.
+- 📖 I’m currently mastering JavaScript
