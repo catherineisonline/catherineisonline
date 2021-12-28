@@ -16,3 +16,8 @@
 </p>
 
 
+Find me on <a href="www.linkedin.com/in/catherinemitagvaria
+" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/></a>
+
+
+
