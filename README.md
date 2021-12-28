@@ -16,6 +16,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="35" height="35"/>
 </p>
 
+<h3>Let's Connect</h3>
+<a href="https://www.linkedin.com/in/catherinemitagvaria/" target="blank"><img align="center" src="logos/linkedin logo.png" alt="me in linkedin" height="auto" width="30" /></a>
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=catherineisonline&theme=omni&show_icons=true&locale=en)
 
 
