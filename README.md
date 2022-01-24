@@ -2,8 +2,8 @@
 <h2 align="center">Frontend development enthusiast</h2>
 
 
-- 🍃 I love creating new things.
-- 📖 I’m currently mastering JavaScript.
+- 🍃 I love creating new things
+- 📖 I’m currently mastering JavaScript
 - 🌸 I enjoy some CSS and HTML as well! 
 - 🐙 Developer work experience 0
 
