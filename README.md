@@ -4,7 +4,7 @@
 
 - 🍃 I love creating new things
 - 📖 I’m currently mastering React
-- 🌸 I enjoy some CSS and HTML as well! 
+- 🌸 I enjoy some CSS and HTML as well!    
 - 🐙 Developer work experience 0
 
 
