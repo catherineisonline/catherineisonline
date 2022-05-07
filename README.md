@@ -1,4 +1,4 @@
-<h1 align="center">👩🏻‍💻 Hi, I’m Catherine</h1>
+<h1 align="center">👩🏻‍💻 Hi, I’m Catherine</h1> 
 <h2 align="center">Frontend development enthusiast </h2>
 
 
