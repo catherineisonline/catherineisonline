@@ -1,5 +1,5 @@
 <h1 align="center">👩🏻‍💻 Hi, I’m Catherine</h1> 
-<h2 align="center">Aspiring Frontend Web Developer </h2>  
+<h2 align="center">Frontend JavaScriot Web Developer </h2>  
    
 
 - 🍃 I love creating new things   
