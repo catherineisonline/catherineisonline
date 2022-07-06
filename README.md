@@ -5,7 +5,7 @@
 - 🍃 I love creating new things   
 - 📖 I’m currently mastering JavaScript/React.js   
 - 🌸 I enjoy some CSS and HTML as well! 
-- 🐙 Open to work
+- ✅ Open to work
  
 
 
