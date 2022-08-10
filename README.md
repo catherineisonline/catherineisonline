@@ -3,7 +3,7 @@
    
 
 ➢ I love creating new things<br>
-➢ I’m currently mastering JavaScript/Reactjs<br>
+➢ I’m currently mastering JavaScript/React<br>
 ➢ I enjoy some CSS and HTML as well!<br>
 ➢ Open to work
  
