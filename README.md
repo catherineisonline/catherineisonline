@@ -2,10 +2,10 @@
 <h2 align="center">Frontend JavaScript Web Developer </h2>  
    
 
-- 🍃 I love creating new things   
-- 📖 I’m currently mastering JavaScript/React.js   
-- 🌸 I enjoy some CSS and HTML as well! 
-- ✅ Open to work
+➢ I love creating new things<br>
+➢ I’m currently mastering JavaScript/Reactjs<br>
+➢ I enjoy some CSS and HTML as well!<br>
+➢ Open to work
  
 
 
