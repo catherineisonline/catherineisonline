@@ -22,7 +22,14 @@
 </p>
 
 <h3>Let's Connect:</h3>
-<p><a href="https://www.linkedin.com/in/catherinemitagvaria/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="30"/></a></p>
+
+<p><a href="https://www.linkedin.com/in/catherinemitagvaria/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="30"/></a>
+<a href="https://www.codewars.com/users/catherineisonline" target="_blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="codewars profile" height="auto" width="30"/></a>
+<a href="https://codepen.io/catherineisonline" target="_blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-multi-platform-online-code-editor-and-open-source-learning-service-logo-shadow-tal-revivo.png" alt="codepen profile" height="auto" width="30"/></a>
+
+</p>
+
+
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=catherineisonline&theme=omni&show_icons=true&locale=en) -->
 
