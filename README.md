@@ -1,14 +1,11 @@
 <h1 align="center">👩🏻‍💻 Hi, I’m Catherine</h1> 
 <h2 align="center">Frontend JavaScript Web Developer </h2>  
    
-
 ➢ I love creating new things<br>
 ➢ I’m currently mastering JavaScript/React<br>
 ➢ I enjoy some CSS and HTML as well!<br>
 ➢ Open to work
  
-
-
 <h3>Languages & Tools I Use:</h3>
 <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
