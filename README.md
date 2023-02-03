@@ -35,15 +35,14 @@ With 9 years of diverse experience in sales, customer support, social media, and
 <br/>
 <br/>
 
-<p>
 
-  
-[![Catherine's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=catherineisonline&show_icons=true&theme=dark&icon_color=57a8ff&hide_border=true&card_width=600#gh-dark-mode-only)](https://github.com/catherineisonline/catherineisonline#gh-dark-mode-only)
-[![Catherine's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=catherineisonline&show_icons=true&theme=default&icon_color=57a8ff&hide_border=true&card_width=600#gh-light-mode-only)](https://github.com/catherineisonline/catherineisonline#gh-light-mode-only)
+
+[![Catherine's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=catherineisonline&show_icons=true&theme=dark&icon_color=57a8ff&hide_border=true&card_width=400#gh-dark-mode-only)](https://github.com/catherineisonline/catherineisonline#gh-dark-mode-only)
+[![Catherine's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=catherineisonline&show_icons=true&theme=default&icon_color=57a8ff&hide_border=true&card_width=400#gh-light-mode-only)](https://github.com/catherineisonline/catherineisonline#gh-light-mode-only)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=catherineisonline&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&icon_color=57a8ff&hide_border=true&card_width=150)](https://github.com/anuraghazra/github-readme-stats) --->
 
-</p>
+
 
 
