@@ -34,8 +34,12 @@ With 9 years of diverse experience in sales, customer support, social media, and
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/DYh8ITFZ8VwXH1A5Hs/giphy.gif" width="300" height="400" />
 
 [![Catherine's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=catherineisonline&show_icons=true&theme=dark&icon_color=57a8ff&hide_border=true&card_width=400#gh-dark-mode-only)](https://github.com/catherineisonline/catherineisonline#gh-dark-mode-only)
 [![Catherine's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=catherineisonline&show_icons=true&theme=default&icon_color=57a8ff&hide_border=true&card_width=400#gh-light-mode-only)](https://github.com/catherineisonline/catherineisonline#gh-light-mode-only)
