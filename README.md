@@ -4,9 +4,11 @@ With 9 years of diverse experience in sales, customer support, social media, and
 
 ### I started writing to improve my knowledge and help beginners understand things from a different perspective!Let me know if it helped you in any way
 
-<p><img  src="https://github.com/catherineisonline/scandi/blob/main/medium-icon-white.png?raw=true#gh-dark-mode-only" alt="codepen profile" height="auto" width="20"/> [Medium](https://medium.com/@catherineisonline)</p>
 
-<p><img  src="https://github.com/catherineisonline/scandi/blob/main/medium-icon-black.png?raw=true#gh-light-mode-only" alt="codepen profile" height="auto" width="20"/> [Medium](https://medium.com/@catherineisonline)</p>
+[![Medium](https://github.com/catherineisonline/scandi/blob/main/medium-icon-white.png?raw=true#gh-dark-mode-only)](https://medium.com/@catherineisonline)
+
+<!-- [![Medium](https://github.com/catherineisonline/scandi/blob/main/medium-icon-black.png?raw=true#gh-light-mode-only)](https://medium.com/@catherineisonline) -->
+
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="400" height="320" />
