@@ -26,9 +26,9 @@ With 9 years of diverse experience in sales, customer support, social media, and
 
 ## 📱 Let's Connect
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="20"/> [LinkedIn](https://www.linkedin.com/in/catherinemitagvaria/") <br/><br/>
-<img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="codewars profile" height="auto" width="20"/> [Codewars](https://www.codewars.com/users/catherineisonline")<br/><br/>
-<img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-multi-platform-online-code-editor-and-open-source-learning-service-logo-shadow-tal-revivo.png" alt="codepen profile" height="auto" width="20"/> [CodePen](https://codepen.io/catherineisonline")<br/><br/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="20"/> [LinkedIn](https://www.linkedin.com/in/catherinemitagvaria/) <br/><br/>
+<img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="codewars profile" height="auto" width="20"/> [Codewars](https://www.codewars.com/users/catherineisonline)<br/><br/>
+<img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-multi-platform-online-code-editor-and-open-source-learning-service-logo-shadow-tal-revivo.png" alt="codepen profile" height="auto" width="20"/> [CodePen](https://codepen.io/catherineisonline)<br/><br/>
 
 <br/>
 <br/>
