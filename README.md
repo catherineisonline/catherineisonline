@@ -4,7 +4,7 @@ With 9 years of diverse experience in sales, customer support, social media, and
 
 ### ✍🏻 I am writing about JavaScript to improve my knowledge but also to help beginner fellow developers understand programming from another angle. Follow the Medium link to read the articles! 
 
-<a  align="center" href="https://medium.com/@catherineisonline"><img src="https://github.com/catherineisonline/scandi/raw/main/medium-icon-white.png?raw=true&width=5#gh-dark-mode-only"  align="center" height="35" width="35" > Medium</a>
+<a  align="center" href="https://medium.com/@catherineisonline"><img  align="center" width="35" height="35" src="https://img.icons8.com/glyph-neue/64/FFFFFF/medium-logo.png" alt="medium-logo"/> Medium</a>
 
 
 
