@@ -12,7 +12,7 @@ With 9 years of diverse experience in sales, customer support, social media, and
 
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="400" height="320" />
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJhcTNreXV2NG1qamt5Z2Z5M203dnE5YmM0MHA4ZDN3Mzdsd3hpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/mGasM06BJXWs7KLubN/giphy.gif" width="400" height="320" />
 
 ## 💅🏻 Languages & Tools
 
@@ -37,7 +37,7 @@ With 9 years of diverse experience in sales, customer support, social media, and
 ## 📱 Let's Connect
 
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="20"/> [LinkedIn](https://www.linkedin.com/in/catherinemitagvaria/) <br/><br/>
-<img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="codewars profile" height="auto" width="20"/> [Codewars](https://www.codewars.com/users/catherineisonline)<br/><br/>
+<img align="center" src="https://repository-images.githubusercontent.com/584612363/dc5a8b7c-1706-4ab9-9ac0-6e7b834a90fd" alt="codewars profile" height="auto" width="20"/> [Codewars](https://www.codewars.com/users/catherineisonline)<br/><br/>
 <img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-multi-platform-online-code-editor-and-open-source-learning-service-logo-shadow-tal-revivo.png" alt="codepen profile" height="auto" width="20"/> [CodePen](https://codepen.io/catherineisonline)<br/><br/>
 
 
