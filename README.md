@@ -1,4 +1,4 @@
-<img src="https://github.com/catherineisonline/catherineisonline/blob/main/README%20cover.png?raw=true" width="100%" height="100%"/>
+<img src="https://github.com/catherineisonline/catherineisonline/blob/main/README%20cover.png?raw=true" width="100%" height="600px"/>
 
 Hello! My name is Ekaterine and I am a self-taught front-end developer, passionate about cultivating meaningful connections between businesses and their customers by transforming ideas into digital experiences.
 
