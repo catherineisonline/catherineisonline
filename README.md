@@ -1,8 +1,21 @@
 <img src="https://github.com/catherineisonline/catherineisonline/blob/main/README%20cover.png?raw=true" width="100%" height="600px"/>
 
-Hello! My name is Ekaterine and I am a self-taught front-end developer, passionate about cultivating meaningful connections between businesses and their customers by transforming ideas into digital experiences.
+👋 Hi, I'm Ekaterine!
+I'm a self-taught frontend developer who loves building responsive and accessible web apps with React, TypeScript, and JavaScript.
+
+On my GitHub, you'll find:
+
+- Projects I built from scratch, plus UI challenges from different platforms.
+
+- Code experiments where I explore new frontend techniques and play with design.
+
+- Clear README files with setup instructions so you can try the projects easily.
+
+👩‍💻 I'm currently open to fully remote entry-level frontend opportunities. If you would like to connect, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/catherinemitagvaria/).
+
 
 ## Writing
+I share blog posts about JavaScript and frontend development, where I explain concepts I'm learning and practical lessons from my projects. You can check them out here:
 
 <a  align="center" href="https://medium.com/@catherineisonline"> <img  align="center" width="20" height="auto" src="https://img.icons8.com/glyph-neue/64/FFFFFF/medium-logo.png" alt="medium-logo"/> Medium</a> <br/> <br />
 <a  align="center" href="https://dev.to/catherineisonline"> <img  align="center" width="20" height="auto" src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="medium-logo"/> Dev.to</a>
