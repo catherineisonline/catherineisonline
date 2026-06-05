@@ -1,48 +1,119 @@
-<img src="https://github.com/catherineisonline/catherineisonline/blob/main/README%20cover.png?raw=true" width="100%" height="600px"/>
+# 👋 Hi, I'm Ekaterine!
 
-👋 Hi, I'm Ekaterine!
-I'm a self-taught frontend developer who loves building responsive and accessible web apps with React, TypeScript, and JavaScript.
+I'm a self-taught QA Engineer with frontend development knowledge.
+
+I enjoy testing web and mobile applications, identifying edge cases, improving user experiences, and understanding how products behave under real-world conditions.
+
+Alongside QA, I've spent several years learning frontend development with JavaScript, TypeScript, and React, which helps me better understand application architecture and communicate effectively with developers.
 
 On my GitHub, you'll find:
 
-- Projects I built from scratch, plus UI challenges from different platforms.
+- QA-related projects, test documentation, and testing experiments
+- Frontend projects built with modern web technologies
+- UI implementation challenges and coding exercises
+- Clear project documentation and setup instructions
 
-- Code experiments where I explore new frontend techniques and play with design.
+---
 
-- Clear README files with setup instructions so you can try the projects easily.
+### ⚠️ Open to Remote QA Engineer Opportunities
 
-👩‍💻 I'm currently open to fully remote entry-level frontend opportunities. If you would like to connect, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/catherinemitagvaria/).
+Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/catherinemitagvaria/)**.
 
+---
 
-## Writing
-I share blog posts about JavaScript and frontend development, where I explain concepts I'm learning and practical lessons from my projects. You can check them out here:
+## 🧪 QA Engineering
 
-<a  align="center" href="https://medium.com/@catherineisonline"> <img  align="center" width="20" height="auto" src="https://img.icons8.com/glyph-neue/64/FFFFFF/medium-logo.png" alt="medium-logo"/> Medium</a> <br/> <br />
-<a  align="center" href="https://dev.to/catherineisonline"> <img  align="center" width="20" height="auto" src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="medium-logo"/> Dev.to</a>
+### Testing
 
-## Languages & Tools
+`Manual Testing`
+`Black-Box Testing`
+`Functional Testing`
+`Regression Testing`
+`Exploratory Testing`
+`Smoke Testing`
+`Integration Testing`
+`API Testing`
+`REST API Testing`
+`Web Testing`
+`Mobile Testing (iOS & Android)`
+`macOS Testing`
+`Cross-Platform Testing`
+`Requirement Analysis`
+`Test Design`
+`Test Cases`
+`Test Scenarios`
+`Test Execution`
+`Bug Reporting`
+`Bug Verification`
+`Defect Lifecycle Management`
+`API Validation`
+`UI Testing`
+`Acceptance Testing`
+`Bug Triage`
 
-<p>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" height="auto" width="20"/> React | 
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="auto" width="20"/> JavaScript | 
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" height="auto" width="20"/> TypeScript |
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="auto" width="20"/> CSS |
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" height="auto" width="20"/> Tailwind |
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" height="auto" width="20"/> SASS | 
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="auto" width="20"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="auto" width="20"/> VS Code |
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" height="auto" width="20"/> Figma |
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" height="auto" width="20"/> GIT |
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" height="auto" width="20"/> Jira |
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" height="auto" width="20"/> Trello
-</p>
+### Methodologies
 
+`Agile`
+`Scrum`
+`SDLC`
+`STLC`
+`Boundary Value Analysis`
+`Equivalence Partitioning`
+`Error Guessing`
+`Risk-Based Testing`
 
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJhcTNreXV2NG1qamt5Z2Z5M203dnE5YmM0MHA4ZDN3Mzdsd3hpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/mGasM06BJXWs7KLubN/giphy.gif" width="400" height="320" />
+### Tools & Technologies
 
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Proxyman](https://img.shields.io/badge/Proxyman-7C3AED?style=for-the-badge)
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![3uTools](https://img.shields.io/badge/3uTools-0099FF?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## Let's Connect
+---
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="20"/> [LinkedIn](https://www.linkedin.com/in/catherinemitagvaria/) <br/><br/>
-<img align="center" src="https://img.icons8.com/?size=100&id=gDJDJJ1MCGmG&format=png&color=000000" alt="codewars profile" height="auto" width="20"/> [Codewars](https://www.codewars.com/users/catherineisonline)<br/><br/>
-<img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-multi-platform-online-code-editor-and-open-source-learning-service-logo-shadow-tal-revivo.png" alt="codepen profile" height="auto" width="20"/> [CodePen](https://codepen.io/catherineisonline)<br/><br/>
+## 💻 Frontend Development
+
+### Languages
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frameworks & Libraries
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### Development Tools
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## ✍️ Writing
+
+I write about frontend development, software testing, JavaScript, and lessons learned while building and testing applications.
+
+- 📝 **Medium:** https://medium.com/@catherineisonline
+- 📝 **Dev.to:** https://dev.to/catherineisonline
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/catherinemitagvaria/
+- ⚔️ Codewars: https://www.codewars.com/users/catherineisonline
+- 🎨 CodePen: https://codepen.io/catherineisonline
